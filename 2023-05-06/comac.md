@@ -1,0 +1,2 @@
+- [Ch2 정리](https://fringe-pancreas-e46.notion.site/ch2-d19ad40be50a4b63a1999f13a9610779)
+- [Ch3 정리](https://fringe-pancreas-e46.notion.site/ch3-c629815dd4564bfc83eea3075d1618db)
