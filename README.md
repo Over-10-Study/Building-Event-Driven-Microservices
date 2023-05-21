@@ -18,16 +18,14 @@
 |----------------|-------|------------------------------------------------------|----|
 | 2023-04-22 (토) | :white_check_mark: | CHAPTER 1 왜 이벤트 기반 마이크로서비스인가?                        |    |
 | 2023-05-06 (토) | :white_check_mark: | CHAPTER 2 이벤트 기반 마이크로서비스 기초<br>CHAPTER 3 통신 및 데이터 규약 |    |
-| 2023-05-20 (토) | :ballot_box_with_check: | CHAPTER 4 기존 시스템에 이벤트 기반 아키텍처 통합<br>CHAPTER 5 이벤트 기반 처리 기본 |    |
-|                |       |                                                      |    |
+| 2023-05-20 (토) | :white_check_mark: | CHAPTER 4 기존 시스템에 이벤트 기반 아키텍처 통합<br>CHAPTER 5 이벤트 기반 처리 기본 |    |
+| 2023-06-03 (토) | :ballot_box_with_check: | CHAPTER 6 확정적 스트림 처리<br>CHAPTER 7 상태 저장 스트리밍 |    |
 |                |       |                                                      |    |
 |                |       |                                                      |    |
 |                |       |                                                      |    |
 |                |       |                                                      |    |
 
 
-- CHAPTER 6 확정적 스트림 처리
-- CHAPTER 7 상태 저장 스트리밍
 - CHAPTER 8 마이크로서비스 워크플로 구축
 - CHAPTER 9 FaaS 응용 마이크로서비스
 - CHAPTER 10 기본 프로듀서/컨슈머 마이크로서비스
