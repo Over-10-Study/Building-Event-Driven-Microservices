@@ -24,7 +24,7 @@
 | 2023-07-01 (토) | :white_check_mark: | CHAPTER 8 마이크로서비스 워크플로 구축<br>CHAPTER 9 FaaS 응용 마이크로서비스 |    |
 | 2023-07-15 (토) | :white_check_mark: | CHAPTER 10 기본 프로듀서/컨슈머 마이크로서비스<br>CHAPTER 11 대용량 프레임워크 마이크로서비스 |    |
 | 2023-07-29 (토) | :white_check_mark: | CHAPTER 12 경량 프레임워크 마이크로서비스<br>CHAPTER 13 이벤트 기반 마이크로서비스와 요청-응답 마이크로서비스의 통합 |    |
-| 2023-08-12 (토) | :ballot_box_with_check: | CHAPTER 14 지원 도구<br>CHAPTER 15 이벤트 기반 마이크로서비스 테스트<br>CHAPTER 16 이벤트 기반 마이크로서비스 배포<br>CHAPTER 17 총정리 |    |
+| 2023-08-12 (토) | :white_check_mark: | CHAPTER 14 지원 도구<br>CHAPTER 15 이벤트 기반 마이크로서비스 테스트<br>CHAPTER 16 이벤트 기반 마이크로서비스 배포<br>CHAPTER 17 총정리 |    |
 
 ## 회고
 올레   
